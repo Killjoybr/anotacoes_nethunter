@@ -5,6 +5,11 @@ Estarei utilizando o [guia de estudo](https://github.com/LadyKerr/github-certifi
 
 Tambem utilizarei a [trilha de aprendizagem](https://learn.microsoft.com/pt-br/collections/o1njfe825p602p) feita pela Microsoft em parceria com o GitHub.
 
+## Considerações
+Durante meus estudos, percebi que o uso dos recursos: Trilha de aprendizagem, da Microsoft, e exercícios práticos do GitHub com feedback instantâneo e automatizado, foram muito efetivos no meu aprendizado.
+
+ Percebi que este repositório ará mais útil compilando os recursos disponíveis e linkando os ao domínios relacionados.
+
 ## Domínios de Objetivo
 [Domínio 1: Introdução ao Git e GitHub](./dominios/dominio1.md)
 
